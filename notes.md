@@ -5,3 +5,5 @@ Black background:
 https://unsplash.com/photos/xxsZ5XZFUas
 
 Wolf by Nick Novell from <a href="https://thenounproject.com/browse/icons/term/wolf/" target="_blank" title="Wolf Icons">Noun Project</a> (CCBY3.0)
+
+Wolf by rasendria from <a href="https://thenounproject.com/browse/icons/term/wolf/" target="_blank" title="Wolf Icons">Noun Project</a>
