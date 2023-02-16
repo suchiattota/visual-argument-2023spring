@@ -9,3 +9,5 @@ Shovel by Marco Livolsi from <a href="https://thenounproject.com/browse/icons/te
 
 Photo by <a href="https://unsplash.com/@vivaangupta?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">vivaan gupta</a> on <a href="https://unsplash.com/photos/8U1P1iO1rAQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
+Photo by <a href="https://unsplash.com/@kmagnuson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Karl Magnuson</a> on <a href="https://unsplash.com/photos/MvxMvPO3S1M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
