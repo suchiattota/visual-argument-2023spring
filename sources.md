@@ -7,5 +7,5 @@ Photo by <a href="https://unsplash.com/@ehmz?utm_source=unsplash&utm_medium=refe
 
 Shovel by Marco Livolsi from <a href="https://thenounproject.com/browse/icons/term/shovel/" target="_blank" title="Shovel Icons">Noun Project</a> 
 
-Photo by <a href="https://unsplash.com/@honej?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hon Kim</a> on <a href="https://unsplash.com/photos/2qQgdily4tY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@vivaangupta?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">vivaan gupta</a> on <a href="https://unsplash.com/photos/8U1P1iO1rAQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
