@@ -1,10 +1,10 @@
 # Assest List
 Image | Source
 ----------- | -----------
-Car | Upspalsh
+Car | Unspalsh
 Coyote | The Noun Project
-Shovel for silhouette | Upspalsh
+Shovel for silhouette | Unspalsh
 Shovel for text | The Noun Project
-Silhouettes of women | Upspalsh
+Silhouettes of women | Unspalsh
 Text/Title | Font Squirrel
-Woods | Upspalsh
+Woods | Unspalsh
